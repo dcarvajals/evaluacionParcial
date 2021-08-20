@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017290414783",
+    "project_id": "evaluacionparcial-89a7e",
+    "storage_bucket": "evaluacionparcial-89a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017290414783:android:fab10955be392eba4a040a",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017290414783-stp2rmcoik57jp463u9qfbbrkpjd9pho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5k45ovPs6ci-7slB5luTZtJbvtRdifM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017290414783-stp2rmcoik57jp463u9qfbbrkpjd9pho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
